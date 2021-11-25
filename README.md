@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @faiz-mohammad
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning SAP ABAP, Shopify Store designing and 
-- 💞️ I’m looking to collaborate on ... JavaScript
+- 🌱 I’m currently learning SAP ABAP, Shopify Store designing and JavaScript
+- 💞️ I’m looking to collaborate on LinkedIn
 - 📫 How to reach me https://www.linkedin.com/in/mohammad-faiz-b4a81a179
 
 <!---
